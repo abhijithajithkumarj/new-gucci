@@ -1,0 +1,225 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Code Pro', monospace;;
+}
+.main-header{
+    position: fixed;
+    width: 100%;
+    height: 120px;
+    margin-top: -47px;
+    background-color: black;
+
+  
+    
+   
+}
+
+.center-btn_header button{
+    border: 20;
+    outline: 0;
+    background: #9f9292;
+    color: #fff;
+    padding: 8px 53px;
+    font-size: 23px;
+    border-radius: 4px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.main-header h1{
+
+
+   
+    text-align:center;
+    padding-top: 20px;
+    color: white;
+}
+.nav-one {
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 14px;
+    padding: 25px;
+    font-size: large;
+    margin-left: 95px;
+    margin-right: 268px;
+
+    
+}
+.nav-one a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.center-div{
+    width: 50%;
+    height: 60px;
+    background-color: black;
+    
+    
+}
+.main-one {
+    background-image: url("./images/bagtobag.avif");
+    height: 42vw;
+    margin-top: 47px;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+.Q1{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.second-main{
+    background-color: #e7e7e7;
+    width: 100%;
+    height: 820px;
+        margin-top: 73px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+.second-main h1{
+    font-size: 30px;
+    letter-spacing: 6px;
+    font-variant-ligatures: none;
+    line-height: 35px;
+    text-transform: initial;
+    color: #313131;
+
+}
+    
+.center-btn_header{
+    background-color: #e7e7e7;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 123px;
+    padding-top: 75px;
+}
+
+.second-main-div{
+
+    height: 290vh;
+    background-color: #e7e7e7;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    
+}
+.second-main-div img{
+    width: 95%;
+    margin-top: 140px;
+
+}
+.forth-main{
+    background-color:#e7e7e7;
+    width: 100%;
+    height: 800px;
+    margin-top: 6px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+.fifth-main{
+    background-image: url("./images/HomepageVideoBackgroundStandard_ss23-mar6_001_Default.avif");
+    background-color:#e7e7e7;
+    width: 100%;
+    height: 757px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    
+}
+.fifth-main {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.main-footer{
+    background-color: #e7e7e7;
+    width: 100%;
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.inside-footer{
+    height: 10vh;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding: 40px 0px;
+}
+
+.boxes{
+    display: flex;
+    padding: 40px 0px;
+}
+
+.boxes .box{
+    margin: 0px 40px;
+}
+.last-div{
+    background-color: black;
+    width: 100%;
+    height: 70vh;
+}
+.test-two {
+    font-size: 30px;
+    letter-spacing: 6px;
+    font-variant-ligatures: none;
+    line-height: 35px;
+    text-transform: initial;
+    color: #313131;
+}
+.test-three{
+    font-size: 30px;
+    letter-spacing: 6px;
+    font-variant-ligatures: none;
+    line-height: 35px;
+    text-transform: initial;
+    color: #313131;
+
+}
+.end-div{
+    text-align: center;
+}
+.footr-button{
+    border: 50;
+    outline: 1cm;
+    background: transparent;
+    color: #fff;
+    padding: 69px 69px;
+    font-size: 12px;
+    border-radius: 4px;
+    margin-left: 10px;
+    cursor: pointer
+}
+
+
+    
+
